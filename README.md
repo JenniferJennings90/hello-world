@@ -1,2 +1,4 @@
 # hello-world
-Simple First Repository
+This is my first branch for the hello world repository. 
+
+Im quite new to all this!! 
